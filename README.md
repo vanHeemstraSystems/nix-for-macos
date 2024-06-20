@@ -1,7 +1,7 @@
-repository-name
-# Repository Name
+nix-for-macos
+# Nix for MacOS
 
-Based on "ABC" at https://www.abc.com/
+Based on "nixos-config" at https://github.com/dustinlyons/nixos-config
 
 ## 100 - Introduction
 
